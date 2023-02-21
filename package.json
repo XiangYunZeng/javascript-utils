@@ -1,10 +1,10 @@
 {
-  "name": "@zxy/javascript-utils",
-  "version": "0.0.38",
+  "name": "@zxy-space/javascript-utils",
+  "version": "0.0.2",
   "private": false,
   "author": {
     "name": "Zxy-Space",
-    "email": "me@Zxy-Space.xin"
+    "email": "me@zxy-space-Space.xin"
   },
   "main": "dist/javascript-utils.cjs.min.js",
   "module": "dist/javascript-utils.esm.min.js",

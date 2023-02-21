@@ -1,20 +1,24 @@
-# JavaScript Utils [![Node.js CI](https://github.com/D-xuanmo/javascript-utils/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/D-xuanmo/javascript-utils/actions/workflows/node.js.yml)
-
+<!--
+ * @Author: Zengxiangyun
+ * @Date: 2023-02-21 14:39:39
+ * @LastEditTime: 2023-02-21 15:20:57
+ * @Description: 
+-->
 > 常用工具函数
 
 ## 安装
 
 ```bash
-$ yarn add @xuanmo/javascript-utils
+$ yarn add @zxy-space/javascript-utils
 ```
 
 ## 使用
 
 ```js
-import { debounce } from '@xuanmo/javascript-utils'
+import { debounce } from '@zxy-space/javascript-utils'
 
 // 全量引用
-// import * as utils from '@xuanmo/javascript-utils'
+// import * as utils from '@zxy-space/javascript-utils'
 ```
 
 ### 已有方法
@@ -50,17 +54,8 @@ import { debounce } from '@xuanmo/javascript-utils'
 ### ua 示例
 
 ```js
-import { ua } from '@xuanmo/javascript-utils'
+import { ua } from '@zxy-space/javascript-utils'
 
 console.log(ua())
-// console.log(ua('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'))
-// {
-//   "browser": "Chrome",
-//   "browserZH": "Chrome",
-//   "browserVersion": "96.0.4664.93",
-//   "os": "Macintosh",
-//   "osVersion": "10.15.7",
-//   "device": "PC",
-//   "engine": "WebKit"
-// }
+
 ```
