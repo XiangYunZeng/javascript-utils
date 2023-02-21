@@ -1,10 +1,10 @@
 {
-  "name": "@xuanmo/javascript-utils",
+  "name": "@zxy/javascript-utils",
   "version": "0.0.38",
   "private": false,
   "author": {
-    "name": "xuanmo",
-    "email": "me@xuanmo.xin"
+    "name": "Zxy-Space",
+    "email": "me@Zxy-Space.xin"
   },
   "main": "dist/javascript-utils.cjs.min.js",
   "module": "dist/javascript-utils.esm.min.js",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/D-xuanmo/javascript-utils"
+    "url": "https://github.com/Zxy-Space/javascript-utils"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
